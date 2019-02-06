@@ -1,0 +1,1 @@
+It is a vanilla neural network to predict the daily bike rental ridership with a single hidden layer. The data is taken from UCI machine learning repository. The data description is present in the readme folder of the data folder. It was my first Udacity Nanodegree project.
